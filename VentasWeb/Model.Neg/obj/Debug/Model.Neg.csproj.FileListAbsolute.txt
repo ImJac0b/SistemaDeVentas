@@ -1,0 +1,62 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\obj\Debug\Model.Neg.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Neg\obj\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csproj.CopyComplete
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.pdb
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csprojAssemblyReference.cache
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.csproj.CopyComplete
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\SAMUEL\Documents\Visual Studio 2019\Proyects\FACTURA_JHONNYv2\Model.Neg\obj\Debug\Model.Neg.pdb
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\bin\Debug\Model.Neg.dll
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\bin\Debug\Model.Neg.pdb
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\bin\Debug\Model.Dao.dll
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\bin\Debug\Model.Entity.dll
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\bin\Debug\Model.Dao.pdb
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\bin\Debug\Model.Entity.pdb
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\obj\Debug\Model.Neg.csprojAssemblyReference.cache
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\obj\Debug\Model.Neg.csproj.CoreCompileInputs.cache
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\obj\Debug\Model.Neg.csproj.CopyComplete
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\obj\Debug\Model.Neg.dll
+D:\PROYECTO VENTAS FACTURA\VentasWeb\Model.Neg\obj\Debug\Model.Neg.pdb
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\bin\Debug\Model.Neg.dll
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\bin\Debug\Model.Neg.pdb
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\bin\Debug\Model.Dao.dll
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\bin\Debug\Model.Entity.dll
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\bin\Debug\Model.Dao.pdb
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\bin\Debug\Model.Entity.pdb
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\obj\Debug\Model.Neg.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\obj\Debug\Model.Neg.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\obj\Debug\Model.Neg.csproj.CopyComplete
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\obj\Debug\Model.Neg.dll
+C:\Users\Jacob\Desktop\VentasWeb\Model.Neg\obj\Debug\Model.Neg.pdb
